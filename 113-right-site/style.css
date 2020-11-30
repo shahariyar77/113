@@ -1,0 +1,89 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+.floot {
+	position: absolute;
+	right: 0;
+	top: 80px;
+}
+
+
+/*========================   Nav manu ==================*/
+
+.section-padding {
+  padding: 80px 0;
+}
+.section-tittle h2 {
+  position: relative;
+  z-index: 1;
+  font-size: 35px;
+  color: #333;
+}
+.section-tittle h2:before {
+  position: absolute;
+  left: -29px;
+  top: 0;
+  height: 100%;
+  width: 5px;
+  content: "";
+  background: #ffce44;
+}
+body {
+  color: #737373;
+  font-size: 16px;
+  line-height: 1.8;
+}
+.section-tittle {
+  margin-bottom: 40px;
+}
+.service-icon {
+  color: #ffce46;
+  font-size: 40px;
+}
+.single-service-box h5 {
+  color: #4555b9;
+}
+.single-service-box {
+  margin-bottom: 40px;
+}
+.boder-box {
+  border: 7px solid#ffce46;
+  padding: 40px;
+  margin-left: 30px;
+  margin-top: 100px;
+  margin-right: 100px;
+  position: relative;
+  padding-bottom: 20px;
+}
+.boder-box-img {
+	margin-top: -162px;
+	width: 405px;
+	margin-bottom: 40px;
+	margin-right: -119px;
+	max-width: 188%;
+	height: 270px;
+}
+.red-more-btn {
+  position: absolute;
+  right: -100px;
+  color: #4555b9;
+  font-weight: 700;
+  transform: rotate(269deg);
+  bottom: 44px;
+  font-size: 18px;
+}
+.boder-box p {
+}
+.red-more-btn i.fa {
+  margin-right: 9px;
+}
+
+
+
+
+
+
